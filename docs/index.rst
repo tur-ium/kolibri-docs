@@ -44,7 +44,7 @@ Kolibri can serve high quality education content from several publicly available
 :ref:`Learners <learn>` - start here
 ************************************
 
-Weather you are using Kolibri at your school, in a training center or at home, learn how to :ref:`open <access_learner>` it on your device, what kind of :ref:`content and activities <content_types>` can you work with, and how to submit :ref:`exams <exams>` created by your coaches or tutors.
+Whether you are using Kolibri at your school, in a training center or at home, learn how to :ref:`open <access_learner>` it on your device, what kind of :ref:`content and activities <content_types>` can you work with, and how to submit :ref:`exams <exams>` created by your coaches or tutors.
 
 
 .. rst-class:: column column2
